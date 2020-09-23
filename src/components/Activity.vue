@@ -19,7 +19,8 @@ export default {
   align-items: center;
   padding:10px 0 ;
   .content{
-    background: #f1f1f1 url("~@/assets/imgs/banner1.jpg") no-repeat;
+    background: #f1f1f1 url("~@/assets/bg/bg1.jpg") no-repeat;
+    background-size:100%;
     width: 95%;
     height: 150px;
     border-radius: 2%;
